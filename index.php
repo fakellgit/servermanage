@@ -12,3 +12,5 @@
     foreach ($serverList as $key => $value) {
         echo "<a href='$value'>$key ($value)</a><br>";
     }
+
+    echo "THAT'S ALL";
