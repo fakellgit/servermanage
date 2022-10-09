@@ -30,7 +30,8 @@ if ($mode && $token) {
      */
     // $url = 'https://trustbotsadmin.herokuapp.com/webhook/TrustBot.php';
     if ($sender_id == 5581177225272044) {
-        $url = 'https://trustsbotsadmin.herokuapp.com/webhook/TrustBot.php';
+        $url = "https://trustbotadmin.fakellgit.repl.co/webhook/TrustBot.php";
+        // $url = 'https://trustsbotsadmin.herokuapp.com/webhook/TrustBot.php';
     } 
 
     /**
